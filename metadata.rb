@@ -1,3 +1,4 @@
+name             "ulimit"
 maintainer       "Jeff Eklund"
 maintainer_email "jeff.eklund@gmail.com"
 license          "Apache 2.0"
